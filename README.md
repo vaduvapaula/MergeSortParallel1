@@ -43,7 +43,7 @@ your-project-folder\x64\Debug\
 ### 4. Download the Input Data Files
 
 - Download the input data archive from the following link:  
-  👉 **[Download input data](#)** *(replace with real link)*
+  👉 **[Download input data](https://drive.google.com/drive/folders/19q8HqMcbWaLbsxZ4liuR5Xqkg2WR2cDx?usp=sharing)** *(https://drive.google.com/drive/folders/19q8HqMcbWaLbsxZ4liuR5Xqkg2WR2cDx?usp=sharing)*
 
 - Extract all files (`data1.txt`, `data2.txt`, ..., `data10.txt`) into:
 
