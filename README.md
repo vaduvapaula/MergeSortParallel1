@@ -5,7 +5,7 @@
 [Data Files](https://drive.google.com/drive/folders/19q8HqMcbWaLbsxZ4liuR5Xqkg2WR2cDx?usp=sharing)
 
 
-## 📦 How to Set Up and Run
+## How to Set Up and Run
 
 ### 1. Clone or Download the Project
 
@@ -43,7 +43,7 @@ project-folder\x64\Debug\
 ### 4. Download the Input Data Files
 
 - Download the input data archive from the following link:  
-  👉 **[Download input data](https://drive.google.com/drive/folders/19q8HqMcbWaLbsxZ4liuR5Xqkg2WR2cDx?usp=sharing)** 
+   **[Download input data](https://drive.google.com/drive/folders/19q8HqMcbWaLbsxZ4liuR5Xqkg2WR2cDx?usp=sharing)** 
 
 - Extract all files (`data1.txt`, `data2.txt`, ..., `data10.txt`) into:
 
@@ -65,9 +65,9 @@ The script will:
 
 ---
 
-## 📄 Output
+##  Output
 
-All execution times and messages will be saved in:
+All execution times will be saved in:
 
 ```
 x64\Debug\results.txt
