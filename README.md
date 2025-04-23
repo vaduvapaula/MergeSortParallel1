@@ -13,7 +13,7 @@ You can either:
 
 - **Clone the repository**:
   ```bash
-  git clone https://github.com/yourusername/your-repo.git
+  git clone https://github.com/vaduvapaula/MergeSortParallel1.git
   ```
 
 - **Download the ZIP** from GitHub and extract it locally.
