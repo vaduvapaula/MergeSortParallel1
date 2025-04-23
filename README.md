@@ -1,8 +1,8 @@
-## Data Files  
-[Data Files](https://drive.google.com/drive/folders/19q8HqMcbWaLbsxZ4liuR5Xqkg2WR2cDx?usp=sharing)
+## Documentation Link 
+[Merge Sort Link doc](https://docs.google.com/document/d/1MwsG6Z-qI7sCVjMgkKdY2g4z2U-QG12zi73V_1J3d98/edit?usp=sharing)
 
-## Link Documentație  
-[Link Documentație Merge Sort](https://docs.google.com/document/d/1MwsG6Z-qI7sCVjMgkKdY2g4z2U-QG12zi73V_1J3d98/edit?usp=sharing)
+## Input Data Files  
+[Data Files](https://drive.google.com/drive/folders/19q8HqMcbWaLbsxZ4liuR5Xqkg2WR2cDx?usp=sharing)
 
 
 ## 📦 How to Set Up and Run
@@ -29,7 +29,7 @@ You can either:
 The compiled executable will be placed in:
 
 ```
-your-project-folder\x64\Debug\
+project-folder\x64\Debug\
 ```
 
 ---
@@ -43,12 +43,12 @@ your-project-folder\x64\Debug\
 ### 4. Download the Input Data Files
 
 - Download the input data archive from the following link:  
-  👉 **[Download input data](https://drive.google.com/drive/folders/19q8HqMcbWaLbsxZ4liuR5Xqkg2WR2cDx?usp=sharing)** *(https://drive.google.com/drive/folders/19q8HqMcbWaLbsxZ4liuR5Xqkg2WR2cDx?usp=sharing)*
+  👉 **[Download input data](https://drive.google.com/drive/folders/19q8HqMcbWaLbsxZ4liuR5Xqkg2WR2cDx?usp=sharing)** 
 
 - Extract all files (`data1.txt`, `data2.txt`, ..., `data10.txt`) into:
 
 ```
-your-project-folder\x64\Debug\
+project-folder\x64\Debug\
 ```
 
 ---
